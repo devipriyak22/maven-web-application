@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>practi2r</name>
-	      <url>http://3.110.210.84:8081/repository/practi2r/</url>
+	      <url>http://13.233.178.60:8081/repository/practi2r/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>practi2</name>
-	      <url>http://3.110.210.84:8081/repository/practi2/</url>
+	      <url>http://13.233.178.60:8081/repository/practi2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
